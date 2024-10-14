@@ -17,7 +17,8 @@ Plotly
 TextBlob
 
 # Installation
-cd google-search-analysis
+
+Clone the repository: git clone https://github.com/ChaitanyaDeokar/Search-Query-Analysis-Web-Application.git 
 
 Create and activate a virtual environment:
 python -m venv search_analysis_env
